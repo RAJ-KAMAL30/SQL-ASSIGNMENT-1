@@ -5,7 +5,7 @@ This repository contains a .mwb file that was created using MySQL Workbench, a v
 ## Prerequisites
 To open the .mwb file, you will need the following:
 
-MySQL Workbench installed on your computer. You can download it from the official MySQL website: MySQL Workbench Download
+MySQL Workbench installed on your computer. You can download it from the official MySQL website: <a href="https://www.mysql.com/products/workbench/">MySQL Workbench Download</a>
 
 **Schema Creation**
 
