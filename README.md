@@ -1,4 +1,4 @@
-## Database Schema Construction
+
 # Opening a .mwb File in MySQL Workbench
 This repository contains a .mwb file that was created using MySQL Workbench, a visual database design tool. The .mwb file represents the database schema and can be opened and edited using MySQL Workbench.
 
@@ -7,7 +7,8 @@ To open the .mwb file, you will need the following:
 
 MySQL Workbench installed on your computer. You can download it from the official MySQL website: <a href="https://www.mysql.com/products/workbench/">MySQL Workbench Download</a>
 
-## Schema Creation
+## Database Schema Construction
+
 
 ## Identified Entities: 
 Analyzed the problem statement and identified the entities to be tracked, including products, regions, time periods, customers, purchases, and inventory.
@@ -43,12 +44,12 @@ Reviewed the generated EER diagrams and made any necessary adjustments or modifi
 
 ## Lessons Learned
 
-**Requirement Analysis:** Conducting a thorough analysis of the problem statement and clearly understanding the requirements is crucial before starting the database schema design. It helps in identifying the entities, attributes, and relationships accurately.
+## Requirement Analysis: Conducting a thorough analysis of the problem statement and clearly understanding the requirements is crucial before starting the database schema design. It helps in identifying the entities, attributes, and relationships accurately.
 
-**Entity-Relationship Modeling:** EER modeling provides a visual representation of entities, attributes, and relationships, making it easier to understand the database structure. It helps in identifying and refining the relationships between entities and ensuring data integrity.
+## Entity-Relationship Modeling: EER modeling provides a visual representation of entities, attributes, and relationships, making it easier to understand the database structure. It helps in identifying and refining the relationships between entities and ensuring data integrity.
 
-**Primary and Foreign Keys:** Assigning primary keys to uniquely identify records in each table and using foreign keys to establish relationships between tables is vital for maintaining data integrity and enforcing referential integrity constraints.
+## Primary and Foreign Keys: Assigning primary keys to uniquely identify records in each table and using foreign keys to establish relationships between tables is vital for maintaining data integrity and enforcing referential integrity constraints.
 
-**Many-to-Many Relationships:** Handling many-to-many relationships often requires junction tables. Understanding how to create and manage junction tables is essential for representing complex relationships accurately.
+## Many-to-Many Relationships: Handling many-to-many relationships often requires junction tables. Understanding how to create and manage junction tables is essential for representing complex relationships accurately.
 
 
