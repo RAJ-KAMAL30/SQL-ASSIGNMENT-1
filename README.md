@@ -17,7 +17,7 @@ Using a database management tool (MySQL Workbench), executed SQL statements to c
 Added primary keys, foreign keys, and any necessary constraints to enforce data integrity and maintain the defined relationships between the tables.
 
 
-**EER Diagram Generation**
+##EER Diagram
 
 <img width="771" alt="Screenshot 2023-05-23 085732" src="https://github.com/RAJ-KAMAL30/SQL-ASSIGNMENT-1/assets/113379882/bd864aad-3070-49c1-bde4-1e514b92360a">
 
@@ -31,5 +31,14 @@ Utilized the built-in functionality of the database management tool to automatic
 
 **3.Refined EER Diagram**: 
 Reviewed the generated EER diagrams and made any necessary adjustments or modifications to improve the readability and clarity of the diagrams. This included rearranging the layout, adjusting connector lines, and adding additional annotations or labels.
+
+
+## Lessons Learned
+
+**Requirement Analysis:** Conducting a thorough analysis of the problem statement and clearly understanding the requirements is crucial before starting the database schema design. It helps in identifying the entities, attributes, and relationships accurately.
+
+**Entity-Relationship Modeling:** EER modeling provides a visual representation of entities, attributes, and relationships, making it easier to understand the database structure. It helps in identifying and refining the relationships between entities and ensuring data integrity.
+
+**Primary and Foreign Keys:** Assigning primary keys to uniquely identify records in each table and using foreign keys to establish relationships between tables is vital for maintaining data integrity and enforcing referential integrity constraints.
 
 
