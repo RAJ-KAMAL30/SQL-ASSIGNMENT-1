@@ -1,4 +1,11 @@
-# SQL-ASSIGNMENT-1
+## Database Schema Construction
+# Opening a .mwb File in MySQL Workbench
+This repository contains a .mwb file that was created using MySQL Workbench, a visual database design tool. The .mwb file represents the database schema and can be opened and edited using MySQL Workbench.
+
+## Prerequisites
+To open the .mwb file, you will need the following:
+
+MySQL Workbench installed on your computer. You can download it from the official MySQL website: MySQL Workbench Download
 
 **Schema Creation**
 
