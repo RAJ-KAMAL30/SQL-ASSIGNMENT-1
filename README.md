@@ -44,12 +44,16 @@ Reviewed the generated EER diagrams and made any necessary adjustments or modifi
 
 ## Lessons Learned
 
-## Requirement Analysis: Conducting a thorough analysis of the problem statement and clearly understanding the requirements is crucial before starting the database schema design. It helps in identifying the entities, attributes, and relationships accurately.
+## Requirement Analysis: 
+Conducting a thorough analysis of the problem statement and clearly understanding the requirements is crucial before starting the database schema design. It helps in identifying the entities, attributes, and relationships accurately.
 
-## Entity-Relationship Modeling: EER modeling provides a visual representation of entities, attributes, and relationships, making it easier to understand the database structure. It helps in identifying and refining the relationships between entities and ensuring data integrity.
+## Entity-Relationship Modeling: 
+EER modeling provides a visual representation of entities, attributes, and relationships, making it easier to understand the database structure. It helps in identifying and refining the relationships between entities and ensuring data integrity.
 
-## Primary and Foreign Keys: Assigning primary keys to uniquely identify records in each table and using foreign keys to establish relationships between tables is vital for maintaining data integrity and enforcing referential integrity constraints.
+## Primary and Foreign Keys: 
+Assigning primary keys to uniquely identify records in each table and using foreign keys to establish relationships between tables is vital for maintaining data integrity and enforcing referential integrity constraints.
 
-## Many-to-Many Relationships: Handling many-to-many relationships often requires junction tables. Understanding how to create and manage junction tables is essential for representing complex relationships accurately.
+## Many-to-Many Relationships: 
+Handling many-to-many relationships often requires junction tables. Understanding how to create and manage junction tables is essential for representing complex relationships accurately.
 
 
