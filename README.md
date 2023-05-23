@@ -17,7 +17,7 @@ Using a database management tool (MySQL Workbench), executed SQL statements to c
 Added primary keys, foreign keys, and any necessary constraints to enforce data integrity and maintain the defined relationships between the tables.
 
 
-##EER Diagram
+## EER Diagram
 
 <img width="771" alt="Screenshot 2023-05-23 085732" src="https://github.com/RAJ-KAMAL30/SQL-ASSIGNMENT-1/assets/113379882/bd864aad-3070-49c1-bde4-1e514b92360a">
 
