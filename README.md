@@ -42,4 +42,6 @@ Reviewed the generated EER diagrams and made any necessary adjustments or modifi
 
 **Primary and Foreign Keys:** Assigning primary keys to uniquely identify records in each table and using foreign keys to establish relationships between tables is vital for maintaining data integrity and enforcing referential integrity constraints.
 
+**Many-to-Many Relationships:** Handling many-to-many relationships often requires junction tables. Understanding how to create and manage junction tables is essential for representing complex relationships accurately.
+
 
